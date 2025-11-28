@@ -38,7 +38,7 @@ Transformar **discussões comuns da internet**, normalmente agressivas e improdu
 
 ## 📲 Disponibilidade
 
-- 📱 Em desenvolvimento para **iOS 17.5 ou superior**
+- 📱 Para **iOS 16 ou superior**
 - 💻 Versão Web em fase de planejamento
 - 🚫 **Sem versão para Android no momento**
 
@@ -55,6 +55,3 @@ Transformar **discussões comuns da internet**, normalmente agressivas e improdu
 - Metodologia ágil (**SCRUM**) com **Jira**
 - **Git, GitHub, Xcode**
 
----
-
-> **“Debater não é vencer — é construir junto.”** — Polemize
