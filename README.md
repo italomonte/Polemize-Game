@@ -1,57 +1,56 @@
-# 🔥 Polemize – Onde debates encontram ideias 💬
+# 🔥 Polemize – Where debates meet ideas 💬
 
-**Polemize** é uma plataforma digital que incentiva **conversas construtivas, troca de opiniões e desenvolvimento de pensamento crítico**.  
-Aqui, os usuários participam de debates curtos e intensos, sempre com foco em respeito, diversidade de ideias e boa argumentação.
-
-> Projeto desenvolvido em colaboração com **Ana Liz Ribeiro**, **Luna Printes** e colegas da **Apple Developer Academy**.
+**Polemize** is a digital platform that encourages **constructive conversations, exchange of opinions, and the development of critical thinking**.  
+Here, users engage in short and intense debates, always focused on respect, diversity of perspectives, and strong arguments.
 
 ---
 
-## 🎯 Propósito
+## 🎯 Purpose
 
-Transformar **discussões comuns da internet**, normalmente agressivas e improdutivas, em espaços **seguros, divertidos e educativos**, promovendo diálogo e aprendizados reais sobre argumentação.
-
----
-
-## ✨ Modos de Interação
-
-### ⚡ Polêmicas Rápidas
-- Tópicos aleatórios baseados nos temas escolhidos pelo usuário;
-- Debates curtos e espontâneos;
-- Ideal para prática rápida, treino de argumentação e contato com novas perspectivas.
-
-### 🔥 Lenha na Fogueira (IA)
-- Modo impulsionado por inteligência artificial;
-- As polêmicas são criadas com base nas **informações do usuário**, histórico de interação e **relacionamento entre participantes**;
-- Gera **contextos de debate personalizados** e mais profundos, para que a troca seja significativa e provocativa (no bom sentido).
+To transform **common online discussions** — often aggressive and unproductive — into **safe, fun, and educational environments**, promoting meaningful dialogue and real learning about argumentation.
 
 ---
 
-## 🧠 Por que usar o Polemize?
+## ✨ Interaction Modes
 
-- Desenvolve **pensamento crítico**, empatia e comunicação clara;
-- Incentiva debates saudáveis sem agressão nem extremismo;
-- Estimula **argumentação baseada em fatos**, não apenas opinião;
-- Cria um ambiente controlado onde discordar faz parte do aprendizado.
+### ⚡ Quick Controversies
+- Random topics based on the themes selected by the user;
+- Short and spontaneous debates;
+- Ideal for quick practice, argument training, and exposure to new perspectives.
 
----
-
-## 📲 Disponibilidade
-
-- 📱 Para **iOS 16 ou superior**
-- 💻 Versão Web em fase de planejamento
-- 🚫 **Sem versão para Android no momento**
+### 🔥 Fuel the Fire (AI Mode)
+- An AI-powered mode;
+- Controversial prompts are generated based on **user information**, interaction history, and **relationships between participants**;
+- Creates **personalized and deeper debate contexts**, making discussions impactful and provocative (in a healthy way).
 
 ---
 
-## 🧩 Tecnologias e Ferramentas
+## 🧠 Why use Polemize?
+
+- Develops **critical thinking**, empathy, and clear communication;
+- Encourages healthy debates without aggression or extremism;
+- Promotes **fact-based argumentation**, not just opinions;
+- Creates a controlled environment where disagreement is part of learning.
+
+---
+
+## 📲 Availability
+
+- 📱 For **iOS 16 or later**
+- 💻 Web version currently in planning
+- 🚫 **No Android version at the moment**
+
+---
+
+## 🧩 Technologies & Tools
 
 - **Swift, SwiftUI, SwiftData**
 - **MVVM**, **Clean Architecture**, **Design System**
-- **Localizable / Internacionalização**
-- **Integração com APIs**
-- **Integração com OpenAI**
-- Autenticação e gerenciamento de usuários
-- Metodologia ágil (**SCRUM**) com **Jira**
+- **Localizable / Internationalization**
+- **API Integration**
+- **OpenAI Integration**
+- User authentication and management
+- Agile methodology (**SCRUM**) with **Jira**
 - **Git, GitHub, Xcode**
 
+  ![Cover](https://github.com/user-attachments/assets/7238849b-4ec7-4bb2-b401-235a19712e60)
